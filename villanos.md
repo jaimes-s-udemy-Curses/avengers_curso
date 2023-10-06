@@ -2,3 +2,4 @@
 
 * dr. Doom
 * Reed Skul
+* Dr. Herrera
